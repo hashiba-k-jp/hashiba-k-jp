@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A 1st year of graduate student at western Japan.
+
+### Interests
+- Network
+- Cyber security
+- CTF
+
+### languages
+#### mostly use
+[![My Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
+
+#### used
+[![My Skills](https://skillicons.dev/icons?i=go,rust,java,ocaml)](https://skillicons.dev)
