@@ -21,6 +21,7 @@ A 1st year of graduate student at western Japan.
 - Network
 - Cyber security
 - CTF
+- Software Science
 
 ### languages
 #### mostly use
