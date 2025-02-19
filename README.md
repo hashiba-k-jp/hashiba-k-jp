@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A 1st year of graduate student at western Japan.
+A 1st year of graduate student in western Japan.
 
 ### Interests
 - Network
