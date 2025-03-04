@@ -25,7 +25,7 @@ A 1st year of graduate student in western Japan.
 
 ### languages
 #### mostly use
-[![My Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 
 #### used
-[![My Skills](https://skillicons.dev/icons?i=go,rust,java,ocaml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,java,ocaml,haskell)](https://skillicons.dev)
