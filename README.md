@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-A 1st year of graduate student in western Japan.
-
 ### Interests
 - Network
 - Cyber security
@@ -28,4 +25,4 @@ A 1st year of graduate student in western Japan.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 
 #### used
-[![My Skills](https://skillicons.dev/icons?i=go,rust,java,ocaml,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,java,ocaml,haskell,ruby)](https://skillicons.dev)
